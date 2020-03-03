@@ -1,0 +1,45 @@
+
+TCP - Stream
+Message Count: 2561
+Bytes Count: 5242880
+Total Time: 1.8632221221923828
+
+UDP - Stop & Wait
+Message Count: 2560
+Bytes Count: 5242880
+Total Time: 10.356983423233032
+
+TCP - Stop & Wait
+Message Count: 2561
+Bytes Count: 2561
+Total Time: 5.370574712753296
+
+TCP - Stream
+Message Count: 2561
+Bytes Count: 5242880
+Total Time: 1s
+
+TCP - Stop & Wait
+Message Count: 2561
+Bytes Count: 2561
+Total Time: 5s
+
+TCP - Stream
+Message Count: 2561
+Bytes Count: 5242880
+Total Time: 2.99s
+
+TCP - Stream
+Message Count: 2561
+Bytes Count: 5242880
+Total Time: 2.44s
+
+TCP - Stream
+Message Count: 2561
+Bytes Count: 5242880
+Total Time: 2.82s
+
+TCP - Stream
+Message Count: 524289
+Bytes Count: 1073741824
+Total Time: 408.08s
